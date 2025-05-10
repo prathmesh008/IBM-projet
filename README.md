@@ -12,3 +12,24 @@
   
   Optional integrations (e.g., APIs, databases, external services)
 
+**Prerequisites**
+Python 3.7+
+Streamlit
+Google Generative AI SDK
+A Google Cloud account with access to the Generative AI API
+Steps to Install
+**Clone the Repository:**
+
+git clone https://github.com/ayushvishnoipro/Negotiation-Chatbot
+cd Negotiation-Chatbot
+Install Dependencies: Install the required Python packages using the following command:
+
+pip install -r requirements.txt
+Set Up Google Gemini API:
+
+Sign up for Google Cloud and get access to the Generative AI API (Gemini).
+Create a new API key and replace the api_key in the source code with your own API key.
+Run the Application: Launch the chatbot using Streamlit:
+
+streamlit run app.py
+
