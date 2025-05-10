@@ -20,7 +20,7 @@ A Google Cloud account with access to the Generative AI API
 Steps to Install
 **Clone the Repository:**
 
-git clone https://github.com/ayushvishnoipro/Negotiation-Chatbot
+git clone (https://github.com/prathmesh008/IBM-projet/tree/e11d728692c93b973024174175c97c5c51cdf305)
 cd Negotiation-Chatbot
 Install Dependencies: Install the required Python packages using the following command:
 
